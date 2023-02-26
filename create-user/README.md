@@ -24,11 +24,11 @@ as you know this page is for user register and you all of the inputs handled by 
 - Confirm Password
 
 # User Panel
-![Screenshot 2022-06-02 124331](https://imgur.com/gW0d1xJ)
+https://imgur.com/gW0d1xJ
 this page is for the users and all the data has to be dynamic. users can change their information by information page and change password page.
 
 ## Information Page
-![Screenshot 2022-06-02 131603](https://imgur.com/MFku5cn)
+https://imgur.com/MFku5cn
 
 
 ## Change Password Page
